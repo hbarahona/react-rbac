@@ -1,0 +1,6 @@
+export default {
+  ADMIN: "ADMIN",
+  COMMERCIAL: "COMMERCIAL",
+  PRESS: "PRESS",
+  SECURITY: "SECURITY"
+};
